@@ -44,7 +44,7 @@ Cuba.define do
         res.write 'ₘₑᵣₚ'.to_json
       end
 
-      on 'cammerp' do
+      on 'Merp' do
         res.write unstable_merp.to_json
       end
 
